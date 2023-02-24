@@ -1,0 +1,10 @@
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\bin\Debug\BuisinessLogicLayer.dll
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\bin\Debug\BuisinessLogicLayer.pdb
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\obj\Debug\BuisinessLogicLayer.csproj.AssemblyReference.cache
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\obj\Debug\BuisinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\obj\Debug\BuisinessLogicLayer.csproj.CopyComplete
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\obj\Debug\BuisinessLogicLayer.dll
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\obj\Debug\BuisinessLogicLayer.pdb
+E:\Course\.Net\Web\PersonalTracking\BuisinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
